@@ -9,11 +9,9 @@
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
-
-[![jaejin1's github stats](https://github-readme-stats.vercel.app/api?username=jaejin1&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+### My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jaejin1&count_private=true&show_icons=true&theme=gruvbox" />
-
 
 
 <!--
