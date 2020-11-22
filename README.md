@@ -1,6 +1,9 @@
 ### Hi there <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 ![](https://visitor-badge.glitch.me/badge?page_id=jaejin1.jaejin1)
 
+Hi, I'm Jaejin, Cloud Engineer From 🇰🇷 South Korea.
+I’m currently working on music-flo. 🎶
+
 ### 📝 Todoist Stats
 <!-- TODO-IST:START -->
 🏆  200 Karma Points           
