@@ -7,10 +7,10 @@ I’m currently working on music-flo. 🎶
 
 ### 📝 Todoist Stats
 <!-- TODO-IST:START -->
-🏆  200 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 2 tasks so far           
-⏳  Longest streak is 0 days
+🏆  350 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 5 tasks so far           
+⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
 ### 📊 My GitHub Stats
