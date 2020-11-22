@@ -9,6 +9,8 @@
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
+[![jaejin1's github stats](https://github-readme-stats.vercel.app/api?username=jaejin1)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jaejin1/jaejin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
