@@ -1,5 +1,5 @@
 ### Hi there <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-[![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
+[![Visits Badge](https://badges.pufler.dev/visits/jaejin1/jaejin1)](https://badges.pufler.dev/visits/jaejin1/jaejin1)
 
 
 # Todoist Stats
